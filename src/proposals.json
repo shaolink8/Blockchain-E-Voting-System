@@ -1,0 +1,22 @@
+[
+  {
+    "id": 0,
+    "name": "Congress",
+    "picture": "images/congress.png"
+  },
+  {
+    "id": 1,
+    "name": "BJP",
+    "picture": "images/bjp.png"
+  },
+  {
+    "id": 2,
+    "name": "AAP",
+    "picture": "images/aap.png"
+  },
+  {
+    "id": 3,
+    "name": "NOTA",
+    "picture": "images/nota.png"
+  }
+]
