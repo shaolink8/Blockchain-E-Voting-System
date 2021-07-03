@@ -18,7 +18,7 @@ Built a voting application with 4 Indian political parties such that there is a 
 
 ## Instruction for truffle testing
 1. Clone the repository to a local folder
-2. Go to the cloned folder using command line
+2. Go to the cloned folder using command line ( for this example, inside the "main" folder ) 
 3. Execute truffle compile
 4. Open a new command line and execute truffle migrate --reset
 5. Execute truffle test
