@@ -1,6 +1,6 @@
 # E Voting DApp
 
-Built a voting ballot application with 4 Indian political parties such that there is a chairperson who is authorized to register voters. Voters have the permission to vote only once and the chairperson's vote carries a weightage of 2.
+Built a voting application with 4 Indian political parties such that there is a chairperson who is authorized to register voters. Voters have the permission to vote only once and the chairperson's vote carries a weightage of 2.
 
 ## Business Logics handled
 1. Chairperson registers accounts to vote
