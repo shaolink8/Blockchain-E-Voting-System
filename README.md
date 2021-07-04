@@ -2,6 +2,8 @@
 
 Built a voting application with 4 Indian political parties such that there is a chairperson who is authorized to register voters. Voters have the permission to vote only once and the chairperson's vote carries a weightage of 2.
 
+<i>Run this application on Ubuntu</i>
+
 ## Business Logics handled
 1. Chairperson registers accounts to vote
 2. No other account can register accounts to vote, the option to register isn't made available to any other used logged in who is not the chairperson
